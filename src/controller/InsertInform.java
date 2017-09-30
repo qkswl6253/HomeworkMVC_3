@@ -32,7 +32,7 @@ public class InsertInform extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
-		
+		//s
 		/*String item_Number = "No Value";
 		if (request.getParameter("Item_Number") != null)
 			item_Number = request.getParameter("Item_Number").toString();
