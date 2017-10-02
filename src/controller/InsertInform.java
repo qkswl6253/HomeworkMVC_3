@@ -106,9 +106,7 @@ public class InsertInform extends HttpServlet {
 		else
 			return true;
 	}
-	public void Check_No_Value(Order order){
-		
-	}
+	
 	
 	
 }
