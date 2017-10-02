@@ -8,7 +8,7 @@
 </head>
 <body>
 <script>
-alert("카드 번호가 같지 않습니다.");
+alert("카드 번호가 같지 않거나, 입력하지 않았습니다.");
 history.back();
 </script>
 

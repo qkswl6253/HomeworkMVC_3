@@ -4,6 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style>
+body {
+	background-color: #FFCCCC}
+
+</style>
 <title>Insert title here</title>
 </head>
 <body>
